@@ -130,7 +130,6 @@ input[type=submit] :hover {
 }
 
 /*Working times*/
-
 #details {
     clear: both;
     margin-bottom: 1px;
@@ -149,7 +148,7 @@ table{
 
 th {
     text-align: left;
-  }
+}
 
 .details-box-right {
     width: 250px;
@@ -176,4 +175,25 @@ input[type="submit" i] {
 
 .h3 {
     text-align: center;
+}
+
+/*Footer*/
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 0.5%;
+    padding: 5%;
+    color: #044421
 }
