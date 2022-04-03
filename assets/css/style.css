@@ -43,7 +43,6 @@ h3 {
 }
 
 /*Navigation menu*/
-
 nav {
     display: flex;
 }
@@ -76,7 +75,6 @@ a:hover {
 }
 
 /*Hero image*/
-
 #hero-image {
     height: 600px;
     width: 100%;
@@ -98,4 +96,35 @@ a:hover {
     background: antiquewhite;
     margin-left: 33%;
     margin-right: auto;
+}
+
+/*Contact us section*/
+
+input[type=text], textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #cccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #044421;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=submit] :hover {
+    background-color: #044421;
+}
+
+.box {
+    border-radius: 5px;
+    background-color: antiquewhite;
+    padding: 20px;
 }
