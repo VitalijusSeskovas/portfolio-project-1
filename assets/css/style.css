@@ -129,3 +129,51 @@ input[type=submit] :hover {
     padding: 20px;
 }
 
+/*Working times*/
+
+#details {
+    clear: both;
+    margin-bottom: 1px;
+}
+
+.details-boxes-container {
+    width: 66%;
+    margin: 0 auto;
+
+}
+
+table{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+th {
+    text-align: left;
+  }
+
+.details-box-right {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.details-box-center {
+    width: 250px;
+    height: 250px;
+    margin: 5%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+input[type="submit" i] {
+    appearance: auto;
+    user-select: none;
+    white-space: pre;
+    align-items: flex-start;
+}
+
+.h3 {
+    text-align: center;
+}
