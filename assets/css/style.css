@@ -41,3 +41,61 @@ h3 {
     color: #472f0f;
     text-align: center;
 }
+
+/*Navigation menu*/
+
+nav {
+    display: flex;
+}
+
+.topnav {
+    float: right;
+}
+
+nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 30px;
+    justify-content: space-evenly;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav li a {
+    color: bisque;
+    text-align: right;
+    font-size: 1em;
+    
+}
+
+a:hover {
+    background: #b1a583;
+    transition: .5s;
+}
+
+/*Hero image*/
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    margin-top: 30px;
+    background-image: url(../images/depositphotos_544819246-stock-photo-escrima-kapap-instructor-demonstrates-sticks.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*Explore section*/
+.column1of3, .column2of3, .column3of3 {
+    width: 30%;
+    text-align: center;
+    float: left;
+    margin: 10px;
+    border-radius: 2px;
+    background: antiquewhite;
+    margin-left: 33%;
+    margin-right: auto;
+}
