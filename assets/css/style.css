@@ -197,3 +197,61 @@ footer {
     padding: 5%;
     color: #044421
 }
+
+/*For larger screens size from 2000px wide and down*/
+@media (max-width: 2000px) {
+.logo {
+    font-size: 1.75em;
+    align-items: flex-start;
+}
+
+nav ul li {
+    font-size: 1em !important;
+    flex-direction: column;
+    align-items: flex-end;
+}
+}
+
+/*For larger to medium screens size from 768px wide and down */
+
+@media (max-width: 768px) {
+  .logo {
+    font-size: 1em;
+    align-items: flex-start;
+}
+
+nav ul li {
+    font-size: 0.75em !important;
+    flex-direction: column;
+    align-items: flex-end;
+    display: block;
+}
+
+.column1of3, .column2of3, .column3of3 {
+    vertical-align: top;
+    width: 28%;
+}
+
+table {
+    font-size: x-small;
+}
+
+h2 {
+    font-size: 0.75em !important;
+    flex-direction: column;
+    align-items: flex-end;
+    display: block;
+}
+
+h3 {
+    font-size: x-small;
+}
+
+
+p {
+    font-size: 0.5em !important;
+    flex-direction: column;
+    align-items: flex-end;
+    display: block;
+}
+}
