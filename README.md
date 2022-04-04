@@ -1,108 +1,158 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Bornemouth Balintawak Club
 
-Welcome VitalijusSeskovas,
+This website orientated for physical activities and martial arts enthusiasts based in Bournemouth, UK. 
+Is for any age users who looking to learn self-defence skills, build self-confidence, be social and have fun. 
+Displayed features shown where users can find information about Balintawak style, this martial art philosophy and what possible outcome practitioners can achieve. 
+In top section there is hero picture with Balintawak practitioners as visual information. Bottom section consist club working times, with address and location map, email form for enquiries and social media icons. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+[Screenshot of the website on several screen sizes](assets/images/screenshot.responsive.test.png)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+## User Experience
 
-## Gitpod Reminders
+- I want to know more about club activities and what this martial art represents 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+- I want to find out more information about accessibility/location of the club and working hours 
 
-`python3 -m http.server`
+- I want to find contact details if I have questions or enquiries 
 
-A blue button should appear to click: _Make Public_,
+ 
+ 
 
-Another blue button should appear to click: _Open Browser_.
+## Club Goals 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A blue button should appear to click: _Make Public_,
+- More people of different age to join club 
+- To Show more information about club and activities 
+- To be eyase accessible website users can contact us 
 
-Another blue button should appear to click: _Open Browser_.
+## Features
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Navigation bar
 
-To log into the Heroku toolbelt CLI:
+- Is located at the top of the page. On the left side consist the name of the website also as logo. 
+- On the right side you will find 3 navigation links (Explore, Contact Us, Follow Us) which leads to different sections of the page and highlights when hoover on menu options for easy tracing.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+[Navigation bar screenshot](assets/images/navigation-bar-screenshot.png)
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+### Heading
 
-------
+- The heading consists the hero image
 
-## Release History
+[Hero image](assets/images/depositphotos_544819246-stock-photo-escrima-kapap-instructor-demonstrates-sticks.jpg)
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+### Explore
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+- Explore is the main section which has 3 text content information about what this website about.
+- It informs the user about club activities and to whom this page is addressed.
+- Top part has text about martial art.
+- Middle part display martial art philosophy
+- Bottom pat explains what user can achieve by joining this club.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+[Main section screenshot](assets/images/main-section-1.jpg)
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+- Lower part contains detailed information withworking times, club address and location map.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+[Working times and club address screenshots](assets/images/main-section-2.jpg)
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+[Location map screenshots](assets/images/main-section-3.jpg)
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+### Contact Us
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+- A contact section having fill out form for quastions or enquiries and club contact details. This is very important part of the website for users as it offers possibility to contact the club on they demand.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+[Fill out form and contact details screenshots](assets/images/contact-screenshot.jpg)
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+[Screenshot of fill out form test](assets/images/contact-form-test.png)
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## Follow Us
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+- Lowest part of the website you will find icons which leads to social media websites: Facebook, Instagram and Twitter.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+[Social media screenshot](assets/images/follow-screenshot.jpg)
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+## Desing
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+- I have chosen these colours because hero picture is stands out. Dominant colours brown, green and blue. I've used different shades of same colours (green, dark-brown,blue, bisque, antiquewhite) to keep the same themes. That help me to keep colour contrast and avoid colours blending.
 
-------
+### Hero Image
 
-## FAQ about the uptime script
+Hero images wasused from https://www.istockphoto.com website. I found this image can helpful for user to have idea what this martial art style about and it is in outdoors motivating to exercise in nature.
 
-**Why have you added this script?**
+## Font  
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+- For text fonts styling I've use Poppins font style.
 
-**How will this affect me?**
+Light 300 font from link google fonts website. It’s creating classic appearance together with colours look brigth.
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+(@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');)
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+## Technologies
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+* HTML5
+* CSS3
+* Balsamiq
+* Google Fonts
+* Gitpod 
+* GitHub
 
-**So….?**
+## Testing
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+- Website was tested several times for HTML style sheets [W3C Markup Validation Service](https://validator.w3.org/). It was showing these recomendations.
 
-**Can I opt out?**
+[Nu Html Checker result index page screenshot](assets/images/html.test.worning.png)
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+- For CSS style sheets [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/validator.html.en) using these validators.
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+[Nu Html Checker result index page screenshot](assets/images/css-test-screenshot.jpg)
 
-**Anything more?**
+- Checked validation using Lighthouse audit service 
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+[Lighthouse result index page screenshot](assets/images/ligthhouse-test.png)
 
----
+## Browser Testing
 
-Happy coding!
+Tested on these browsers and is fully working functional.
+
+- Google Chrome
+- Microsoft Edge
+- Mozilla Firefox
+
+## Bugs
+
+- Navigation bar when is reaching bellow 980px and 580px moving down. I've use w3shcools, website and Inspect Dev Tools but couldn't find cause?
+
+## Deployment
+
+- For this project I've used Github IDE editor and saved/pushed to a Github platform cloud using these commands:
+
+- git add .  
+- git commit -m "message"  
+- git push  
+
+This project was deployed to GitHub Pages using these steps:
+
+1. Login to Github then open the Github Repository.
+2. Within the Repository click on "Settings" on the top of menu.
+3. Go to the "Pages" section.
+4. Under the Sources click the dropdown displaying "None" and select branch to be deployed ("Main").
+5. Click on the "Save" button next "root" folder.
+6. Deployed link is generated at the top in green section.
+
+[Wiev deploeyd website](https://github.com/VitalijusSeskovas/my-full.temp.V.git)
+
+## Credits
+
+For this project I've use several resources:
+
+- [W3School](https://www.w3schools.com/)
+
+- [Google maps](https://www.maps.ie/create-google-map/)
+
+- [Slack](https://app.slack.com/)
+
+- [Images taken](https://www.istockphoto.com/)
+
+- Book "HTML & CSS - design and build websites" JON DUCKETT.
+
+Thank you my mentor Rohit Sharma for good advices with list of points where to focus in all building stages of this project.
+

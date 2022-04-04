@@ -259,7 +259,7 @@ p {
 }
 }
 
-/* For larger to medium screens size from 480px wide and down */
+/* For medium screens size from 480px wide and down */
 @media (max-width: 480px) {
     .logo {
         font-size: 0.5em;
