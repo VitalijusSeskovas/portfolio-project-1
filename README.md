@@ -82,7 +82,7 @@ Hero images wasused from https://www.istockphoto.com website. I found this image
 
 - For text fonts styling I've use Poppins font style.
 
-Light 300 font from link google fonts website. It’s creating classic appearance together with colours look brigth.
+Light 300 font from link google fonts website. It’s creating classic appearance together with colours website looks brigth.
 
 (@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');)
 
